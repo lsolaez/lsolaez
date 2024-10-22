@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter and dart**
 
-- 👯 I’m looking to collaborate on **mobile application projects**
-
 - 📫 How to reach me: **lsolaezdemoya@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, volleyball ...and coding of course**
