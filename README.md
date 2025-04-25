@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and dart**
 
-- 📫 How to reach me: **lsolaezdemoya@gmail.com**
+- 📫 How to reach me: **leonardosolaez2003@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, volleyball ...and coding of course**
   
